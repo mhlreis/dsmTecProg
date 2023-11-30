@@ -43,22 +43,22 @@ const TelaHome: React.FC<TelaHomeProps> = ({ seletorView }) => {
 
       <div className="container" style={{ marginTop: '30px' }}>
         <div className="row">
-          <div className="col s12 m4">
+<div className="col s12 m4">
             <div className="center-align">
-              <h4>Desenvolvimento</h4>
-              <h5>Fizemos a maior parte do trabalho pesado para fornecer estilos padrão que incorporassem nossos componentes personalizados.</h5>
+              <h4>Missão</h4>
+              <h5>Atender nossos clientes com excelência, com dedicação e atenção excepcionais para satisfazê-los. Esperamos que eles se sintam bem em nosso salão e saiam com a auto-estima maior do que quando entraram.</h5>
             </div>
           </div>
           <div className="col s12 m4">
             <div className="center-align">
-              <h4>Foco</h4>
-              <h5>Utilizando elementos e princípios do Material Design, conseguimos criar uma estrutura com foco na Experiência do Usuário.</h5>
+              <h4>Valores</h4>
+              <h5>Valorizar cada membro da equipe e investir em seu desenvolvimento pessoal e profissional. Contribuir para o desenvolvimento e bem-estar da comunidade na qual atuamos.</h5>
             </div>
           </div>
           <div className="col s12 m4">
             <div className="center-align">
-              <h4>Fácil de trabalhar</h4>
-              <h5>Fornecemos documentação detalhada, bem como exemplos de código específicos para ajudar novos usuários a começar.</h5>
+              <h4>Visão</h4>
+              <h5>Ser referência em minha cidade, atender clientes de todas as faixas etárias e para todos os tipos de tratamentos capilares e e lançar uma linha de produtos cosméticos, com marca própria.</h5>
             </div>
           </div>
         </div>
