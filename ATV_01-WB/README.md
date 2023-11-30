@@ -25,7 +25,7 @@ https://github.com/DiegoBoaSorte/2023_02_Tec_Programacao.git
 > 
 <br>
 <h3>Acesse a pasta que o projeto foi colado pelo terminal (pode ser no Visual Studio Code mesmo), e
-em seguida acesse a paste 'atvi' para executar este projeto</h3>
+em seguida acesse a paste '2023_02_Tec_Programacao' para executar este projeto</h3>
 
 ```
   cd <nome da pasta que foi clonada>/ATV_01-WB
