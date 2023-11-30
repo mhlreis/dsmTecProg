@@ -14,7 +14,7 @@ Desta forma o grupo WB listou algumas funcionalidades que o sistema precisa ter,
 
 <br/>
 
-1. Listagem dos 10 clientes que mais consumiram produtos ou serviços, em quantidade, não em valor.
+1. Listagem dos 10 clientes que mais consumiram produtos ou serviços, em quantidade e não por valor.
 2. Listagem de todos os clientes por gênero.
 3. Listagem geral dos serviços ou produtos mais consumidos.
 4. Listagem dos serviços ou produtos mais consumidos por gênero.
