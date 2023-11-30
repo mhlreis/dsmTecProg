@@ -1,4 +1,9 @@
-## 2023_02_Tec_Programacao
+### 2023_02_Tec_Programacao
+### Alunos: Diego Dias e Mateus Reis
+
+
+<br/>
+
 
 # Grupo WB - World Beauty
 
