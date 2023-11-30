@@ -109,7 +109,7 @@ export default class FormularioCadastroProdutoServico extends Component<props, s
             item.id = this.state.dadosItem.id
             this.efetuaAtualizacao(item)
         }
-        this.props.seletorView('Produtos/Serviços', evento)
+        this.props.seletorView('Produtos e Serviços', evento)
         evento.target.reset()
     }
 
