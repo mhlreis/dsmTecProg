@@ -46,7 +46,7 @@ em seguida acesse a paste 'atvi' para executar este projeto</h3>
 <h3>Em seguida execute o último comando, e assim o projeto será iniciado</h3>
 
 ```
-  node src/out/app/main.js
+  node out/app/main.js
 ```
 
 <h4>FIM</h4>
