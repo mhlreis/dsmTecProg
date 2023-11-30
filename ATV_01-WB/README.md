@@ -28,7 +28,7 @@ https://github.com/DiegoBoaSorte/2023_02_Tec_Programacao.git
 em seguida acesse a paste 'atvi' para executar este projeto</h3>
 
 ```
-  cd <nome da pasta que foi clonada>/atv_I
+  cd <nome da pasta que foi clonada>/ATV_01-WB
 ```
 
 <h3>O comando a baixo instala as dependências necessárias do projeto, no terminal copie e cole o comando seguido da tecla entender</h3>
